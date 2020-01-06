@@ -26,3 +26,6 @@ val_ratings.csv: validation dataset with the same fields as the training dataset
 Credit: The dataset is adapted from the MovieLens dataset with modifications, e.g. the user IDs are hashed and shuffled.
 
 
+## Notes
+Large data files are currently being stored with Git LFS.
+
